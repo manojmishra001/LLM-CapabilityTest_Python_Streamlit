@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="OPEN API KEYS")
 
 st.set_page_config(page_title="AI Text Generator", page_icon="✨")
 st.title("✨ Generative AI Text Generator")
